@@ -83,7 +83,7 @@
     - [20 HTTP1.0和HTTP1.1](#20-http10和http11)
     - [21 Ajax](#21-ajax)
 - [*NIX](#nix)
-    - [1 unix进程间通信方式(IPC)](#1-unix进程间通信方式(IPC))
+    - [1 unix进程间通信方式(IPC)](#1-unix进程间通信方式ipc)
     - [2 Linux文件类型](#2-Linux文件类型)
 - [数据结构](#数据结构)
     - [1 红黑树](#1-红黑树)
